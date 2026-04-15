@@ -1,2 +1,3 @@
-Project - 360 LiDAR Spacial Mapping System using Time-of-Flights
-COMPENG 2DX3 - Microprocessor Systems Project
+# 360 Spacial Mapper Using Time-of-Flight
+
+(i will write something here later... too lazy)
