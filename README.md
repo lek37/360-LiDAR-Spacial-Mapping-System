@@ -25,7 +25,7 @@ This project feature a device that provide a simple interface scanning device, m
 - Additionally, there is also a reset button on the microcontroller to activate this device.
 
 👉 System Communication protocol includes:
-- Time-of-Flights (ToF) sensor utilizes I\(^2\)C protocol to send the measurement data captured to the microcontroller.
+- Time-of-Flights (ToF) sensor utilizes I2C protocol to send the measurement data captured to the microcontroller.
 - **UART** protocol for transmitting the data from the microcontroller, to **MATLAB** (receiver) for serial data reading, at baud rate of 115200 bps.
 
 
