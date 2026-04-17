@@ -14,4 +14,22 @@ This project feature a device that provide a simple interface scanning device, m
 - Operating voltage ($V_{IN}$) of 2.6 V to 5.5 V.
 - 16-bit distance reading in millimeters using I2C communication protocol.
 
+👉 The **28BYJ-48 Stepper Motor** has the following features:
+- Operating voltage of 5V DC
+- 4 phases, with gear ratio of 64:1
+- 4 LEDs on the driver for indicating current phase.
+
+👉 Two off-board push buttons has the following features:
+- Button 1: Start/Stop button. This button is responsible for start and stop the motor spin.
+- Button 2: Home button, for returning to the original position of scan when pressed.
+- Additionally, there is also a reset button on the microcontroller to activate this device.
+
+👉 System Communication protocol includes:
+- Time-of-Flights (ToF) sensor utilizes I\(^2\)C protocol to send the measurement data captured to the microcontroller.
+- **UART** protocol for transmitting the data from the microcontroller, to **MATLAB** (receiver) for serial data reading, at baud rate of 115200 bps.
+
+
+
+
+
 
