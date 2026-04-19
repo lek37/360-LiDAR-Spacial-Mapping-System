@@ -4,7 +4,7 @@ This project feature a device that provide a simple interface scanning device, m
 
  ## Highlighted spec
 
-👉 Microcontroller **Texas Instrument MSP-EXP432E401Y** is a core device that communicate the distance measured for data visualization. Some notice features of this devices includes: 
+👉 Microcontroller **Texas Instrument MSP-EXP432E401Y** is a core device that control the system operation. Some notice features of this devices includes: 
  - Operates at maximum 120 MHz bus speed. This device operates at 26 MHz.
  - 128 GPIO (General Purpose Input Output) Pins for flexible digital communications.
  - 2 on-board push buttons and 4 on-board LEDs, all GPIO controlled.
