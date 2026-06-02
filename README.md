@@ -28,6 +28,8 @@ This project feature a device that provide a simple interface scanning device, m
 - Time-of-Flights (ToF) sensor utilizes I2C protocol to send the measurement data captured to the microcontroller.
 - **UART** protocol for transmitting the data from the microcontroller, to **MATLAB** (receiver) for serial data reading, at baud rate of 115200 bps.
 
+## Hardware Setup
+<img width="1168" height="756" alt="Screenshot 2026-04-03 203705" src="https://github.com/user-attachments/assets/3371a0bc-83af-423e-b517-90d52fd507d2" />
 
 
 
