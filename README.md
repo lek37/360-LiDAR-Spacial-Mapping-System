@@ -33,6 +33,18 @@ This project feature a device that provide a simple interface scanning device, m
 System schematics:
 <img width="1168" height="756" alt="Screenshot 2026-04-03 203705" src="https://github.com/user-attachments/assets/3371a0bc-83af-423e-b517-90d52fd507d2" />
 
+More details could be found in the official project documentation. 
+
+## Acknowledgement & Disclaimer
+- Partial code credit to the instructors of **COMPENG 2DX3 - Microprocessor System Project** course, including Dr. Thomas Doyle, Dr. Shahrukh Athar, Dr. Yaser Haddara, Dr. Mohamed Elamien, Dr. Omar Boursalie).
+- Partial code credit to Texas Instrument and STMicroelectronics
+- **Copy my code will constitute academic dishonesty.** Please understand the McMaster Statement of Academic Integrity.
+
+
+
+
+
+
 
 
 
